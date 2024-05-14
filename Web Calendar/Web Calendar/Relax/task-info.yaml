@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/webCalendarSpring/Main.java
+    visible: true
+    learner_created: false
+  - name: test/WebCalendarSpringTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: false
+    learner_created: false
+  - name: src/webCalendarSpring/dto/ResponseEventMessage.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/controller/EventController.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/dto/Event.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/entity/Event.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/repository/EventRepository.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/dto/ResponseEvent.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/37840#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 13 May 2024 19:49:57 UTC"
+record: 3

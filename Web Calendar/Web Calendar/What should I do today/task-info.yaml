@@ -1,0 +1,24 @@
+type: edu
+custom_name: What should I do today?
+files:
+  - name: resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/webCalendarSpring/Main.java
+    visible: true
+    learner_created: false
+  - name: test/WebCalendarSpringTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: false
+    learner_created: false
+  - name: src/webCalendarSpring/EventController.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/37838#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 10 Apr 2024 12:38:48 UTC"
+record: 1
