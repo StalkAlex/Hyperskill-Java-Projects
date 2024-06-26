@@ -1,0 +1,6 @@
+2024-06-23 21:26:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE COMPANY (ID INTEGER NOT NULL,  NAME VARCHAR(255) PRIMARY KEY ([*] ID ))"; expected "HASH, AUTO_INCREMENT, NOT, NULL, COMMENT, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE COMPANY (id INTEGER not NULL,  name VARCHAR(255) PRIMARY KEY ( id )) [42001-200]
+2024-06-23 21:27:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CREATE TABLE COMPANY (ID INTEGER NOT NULL,  NAME VARCHAR(255) PRIMARY KEY ([*] ID ))"; expected "HASH, AUTO_INCREMENT, NOT, NULL, COMMENT, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE COMPANY (id INTEGER not NULL,  name VARCHAR(255) PRIMARY KEY ( id )) [42001-200]

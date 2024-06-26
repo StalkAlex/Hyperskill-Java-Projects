@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Test.java
+    visible: false
+    learner_created: false
+  - name: src/calculator/Memory.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/ArithmeticExpression.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5322#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 23 Jun 2024 18:25:58 UTC"
+record: 7

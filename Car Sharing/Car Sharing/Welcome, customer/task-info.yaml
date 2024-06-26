@@ -1,0 +1,49 @@
+type: edu
+custom_name: "Welcome, customer!"
+files:
+  - name: src/carsharing/Main.java
+    visible: true
+    learner_created: false
+  - name: test/CarSharingTest.java
+    visible: false
+    learner_created: false
+  - name: test/DatabaseUtil.java
+    visible: false
+    learner_created: false
+  - name: src/carsharing/Menu.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/dto/Company.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/db/db.trace.db
+    visible: true
+    learner_created: true
+  - name: src/carsharing/exception/UnsupportedOperationException.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/db/-databaseFileName.trace.db
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Db.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/db/carsharing.trace.db
+    visible: true
+    learner_created: true
+  - name: src/carsharing/exception/ReplInterruptedException.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/dto/Car.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/dto/Customer.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11504#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 26 Jun 2024 19:59:59 UTC"
+record: 4
